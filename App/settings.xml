@@ -1,0 +1,14 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="xsd:anyType[4,2]">
+<item id="ref-2" xsi:type="SOAP-ENC:string">logOnOffserverBD</item>
+<item id="ref-3" xsi:type="SOAP-ENC:string">127.0.0.1</item>
+<item id="ref-4" xsi:type="SOAP-ENC:string">logOnOffnameBD</item>
+<item id="ref-5" xsi:type="SOAP-ENC:string">logOnOffnameBD</item>
+<item id="ref-6" xsi:type="SOAP-ENC:string">logOnOffuserBD</item>
+<item id="ref-7" xsi:type="SOAP-ENC:string">logOnOffuserBD</item>
+<item id="ref-8" xsi:type="SOAP-ENC:string">logOnOffpasswordBD</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">PA$$WORD</item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
